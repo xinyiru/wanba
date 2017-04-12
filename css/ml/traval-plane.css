@@ -237,7 +237,7 @@ head .right .img2{
     align-items: center;
     position:relative;
 }
-.road .road-content li:nth-child(3)  .checkbox{
+.road .road-content li:nth-child(3) .checkbox{
 
    width:0.28rem;
     height:0.28rem;
@@ -249,8 +249,7 @@ head .right .img2{
     margin-top: -0.14rem;
     z-index: 222;
 }
-.road .road-content li:nth-child(3)  .checkbox.show{
-
+.road .road-content li:nth-child(3) .checkbox.show{
    background:url("../../images/ml/duihao1.png") center center/contain no-repeat;
     -webkit-background-size: contain;
 }
