@@ -251,7 +251,7 @@ head .right .img2{
 }
 .road .road-content li:nth-child(3)  .checkbox.show{
 
-   background:url("../../images/ml/duihao1.png") center center/contain;
+   background:url("../../images/ml/duihao1.png") center center/contain no-repeat;
     -webkit-background-size: contain;
 }
 
