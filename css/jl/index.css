@@ -215,7 +215,9 @@ body{
 /*235 101 5*/
 .wb_cj{
 	width: 33.3333%;
-	height: 1.01rem;
+	/*height: 1.01rem;*/
+	padding-top: 0.05rem;
+	padding-bottom: 0.05rem;
 }
 .wb_cj.hot{
 	background:#74ECFE;
@@ -264,6 +266,18 @@ body{
 }
 .wb_cjz .nnb{
 	/*color:#fff;*/
+}
+
+@media screen and (max-width: 320px){
+	.wb_cjz .wb_weno{
+		font-size: 16px;
+	}
+	.wb_cjz .wb_weni{
+		-webkit-text-size-adjust:none;
+		font-size: 10px;
+		/*color:#000;*/
+
+	}
 }
 
 .wb_xzb{

@@ -245,6 +245,8 @@ head .right .img2{
     border-radius:50%;
     position:absolute;
     left:4.5rem;
+    top: 50%;
+    margin-top: -0.14rem;
     z-index: 222;
 }
 .road .road-content li:nth-child(3)  .checkbox.show{
